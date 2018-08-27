@@ -2,6 +2,11 @@ package part5;
 
 import java.util.Random;
 
+/**
+ * Generates knapsack values
+ * @author James Sutton
+ *
+ */
 public class TestGenerator_0_to_N_GraphSearch_Recursive {
 
 	public static void main(String[] args){

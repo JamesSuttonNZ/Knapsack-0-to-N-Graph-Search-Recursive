@@ -7,7 +7,11 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 import java.util.Set;
-
+/**
+ * Recursive Graph Search Algorithm to solve a 0-N Knapsack Problem
+ * @author James Sutton
+ *
+ */
 public class Knapsack_0_to_N_GraphSearch_Recursive {
 
 	private static int[] weights;
